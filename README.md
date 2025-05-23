@@ -22,13 +22,13 @@ Click the link below to explore the interactive Tableau dashboard:
 
 ---
 ## 📑 Table of Contents
-1. [Business Problem]()
-2. [Data Source Overview]()
-3. [Tools and Technologies Used]()
-4. [Analytical Approach]()
-5. [Key Insights]()
-6. [Strategic Recommendations]()
-7. [Conclusion]()
+1. [Business Problem](https://github.com/NISHA-R-DATA/AirIQ-India-Dashboard?tab=readme-ov-file#-business-problem)
+2. [Data Source Overview](https://github.com/NISHA-R-DATA/AirIQ-India-Dashboard?tab=readme-ov-file#%EF%B8%8F-data-source-overview)
+3. [Tools and Technologies Used](https://github.com/NISHA-R-DATA/AirIQ-India-Dashboard?tab=readme-ov-file#%EF%B8%8F-tools-and-technologies-used)
+4. [Analytical Approach](https://github.com/NISHA-R-DATA/AirIQ-India-Dashboard?tab=readme-ov-file#-analytical-approach)
+5. [Key Insights](https://github.com/NISHA-R-DATA/AirIQ-India-Dashboard?tab=readme-ov-file#-key-insights)
+6. [Strategic Recommendations](https://github.com/NISHA-R-DATA/AirIQ-India-Dashboard?tab=readme-ov-file#-strategic-recommendations)
+7. [Conclusion](https://github.com/NISHA-R-DATA/AirIQ-India-Dashboard?tab=readme-ov-file#-conclusion)
 
 
 ---
